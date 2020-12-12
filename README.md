@@ -1,4 +1,4 @@
-# Jali Jali Issues
+# ♣️ Jali Jali - Issues
 
 Du hast wünscht Dir ein Feature für Jali Jali? Trag ihn gleich ein und mit etwas Glück wird er erfüllt!
 
